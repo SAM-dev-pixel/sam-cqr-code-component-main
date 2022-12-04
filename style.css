@@ -17,8 +17,7 @@ body {
     font-size: 15px;
     display: flex;
     padding: 1rem;
-    /*background-color: var(--light-gray);*/
-    background-color: pink;
+    background-color: var(--light-gray);
 }
 #container {
     max-width: 18rem;
